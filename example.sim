@@ -1,0 +1,14 @@
+int alg(int n, <string> args)
+{
+<int> test2 = 2;
+?test2[2];
+
+
+return 1;
+}
+
+void rafa()
+{
+<float> test2;
+?test2[3];
+}
